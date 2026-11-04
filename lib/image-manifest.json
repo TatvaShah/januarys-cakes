@@ -1,0 +1,130 @@
+{
+ "/images/cake-1.jpg": {
+  "w": 513,
+  "h": 640,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   513
+  ],
+  "base": "/images/_opt/cake-1.b09d1fdb72",
+  "stamp": "b09d1fdb72"
+ },
+ "/images/cake-10.jpg": {
+  "w": 480,
+  "h": 640,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/cake-10.6e17333429",
+  "stamp": "6e17333429"
+ },
+ "/images/cake-11.jpg": {
+  "w": 482,
+  "h": 640,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   482
+  ],
+  "base": "/images/_opt/cake-11.1e556e1646",
+  "stamp": "1e556e1646"
+ },
+ "/images/cake-12.jpg": {
+  "w": 480,
+  "h": 640,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/cake-12.a9f8dc1295",
+  "stamp": "a9f8dc1295"
+ },
+ "/images/cake-2.jpg": {
+  "w": 512,
+  "h": 640,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   512
+  ],
+  "base": "/images/_opt/cake-2.f7c7c4e4ce",
+  "stamp": "f7c7c4e4ce"
+ },
+ "/images/cake-6.jpg": {
+  "w": 361,
+  "h": 640,
+  "widths": [
+   96,
+   128,
+   256,
+   361
+  ],
+  "base": "/images/_opt/cake-6.9c668aea68",
+  "stamp": "9c668aea68"
+ },
+ "/images/cake-7.jpg": {
+  "w": 496,
+  "h": 640,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   496
+  ],
+  "base": "/images/_opt/cake-7.c2a25dcfec",
+  "stamp": "c2a25dcfec"
+ },
+ "/images/cake-9.jpg": {
+  "w": 360,
+  "h": 640,
+  "widths": [
+   96,
+   128,
+   256,
+   360
+  ],
+  "base": "/images/_opt/cake-9.e68960786c",
+  "stamp": "e68960786c"
+ },
+ "/images/logo.jpg": {
+  "w": 512,
+  "h": 512,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   512
+  ],
+  "base": "/images/_opt/logo.65acf88ebd",
+  "stamp": "65acf88ebd"
+ },
+ "/images/og-photo.jpg": {
+  "w": 480,
+  "h": 630,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/og-photo.01affd1bcd",
+  "stamp": "01affd1bcd"
+ }
+}
